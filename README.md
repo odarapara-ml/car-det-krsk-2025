@@ -1,6 +1,6 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 
-# Car Detection Dataset — Krasnoyarsk (2025)
+# Car Detection Dataset – Krasnoyarsk (2025)
 
 A custom dashcam image dataset for **single-class car detection**.  
 The project is developed for educational and research purposes, with the goal of learning dataset creation, annotation, and preparation for object detection models.
@@ -13,7 +13,7 @@ The dataset contains manually and semi-automatically annotated frames extracted 
 
 All annotations follow the **YOLO format** and cover a single object class:
 
-- **`car` — passenger vehicles only**
+- **`car` – passenger vehicles only**
 
 Image resolution: **1280 × 720**
 
