@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 # Car Detection Dataset — Krasnoyarsk (2025)
 
 A custom dashcam image dataset for **single-class car detection**.  
