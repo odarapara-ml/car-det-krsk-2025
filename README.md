@@ -41,7 +41,7 @@ In future versions, more classes may be added once the dataset becomes larger an
 ```
 car-det-krsk-2025/
 ├── datasets/
-│   └── cvat_2025/
+│   └── cvat/
 │       ├── images/        # 96 JPG images
 │       └── labels/        # YOLO .txt annotation files
 ├── assets/                # Example annotated images
