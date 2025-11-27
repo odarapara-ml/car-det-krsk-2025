@@ -106,7 +106,7 @@ https://vkvideo.ru/video-229664279_456239025
 
 ---
 
-## 📈 Future Plans
+## Future Plans
 
 - Add additional subsets annotated using different tools (Label Studio, Roboflow, LabelImg) 
 - Expand dataset to 300–500+ images
