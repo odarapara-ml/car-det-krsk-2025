@@ -55,7 +55,7 @@ All values are normalized to the range 0–1.
 
 ---
 
-### Example of Annotated Image
+### Example of Annotated Image (CVAT)
 ![Example annotation](assets/annotated_example_cvat.jpg)
 
 ---
