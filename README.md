@@ -36,12 +36,14 @@ In future versions, more classes may be added once the dataset becomes larger an
 
 ## Dataset Structure
 
+```
 car-det-krsk-2025/
 ├── datasets/
 │   └── cvat_2025/
 │       ├── images/        # 96 JPG images
-│       └── lables/   # YOLO .txt files (one per image)
+│       └── labels/        # YOLO .txt files (one per image)
 └── README.md
+```
 
 Each annotation file has the format:
 
