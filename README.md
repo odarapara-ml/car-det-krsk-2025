@@ -25,13 +25,6 @@ The dataset is annotated for a single class: **passenger cars**.
 
 This decision was made because the project is intended as a learning exercise, and the total dataset size is currently small (~500 images including planned future additions).
 
-Focusing on one homogeneous class:
-
-- allows the model to learn more effectively  
-- improves detection accuracy  
-- avoids class imbalance  
-- keeps the project manageable for experimentation  
-
 In future versions, more classes may be added once the dataset becomes larger and more diverse.
 
 ---
