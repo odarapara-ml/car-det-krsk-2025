@@ -55,6 +55,11 @@ All values are normalized to the range 0–1.
 
 ---
 
+### Example of Annotated Image
+![Example annotation](assets/annotated_example_cvat.jpg)
+
+---
+
 ## Sources
 
 As part of the project to build a custom dataset, short dashcam videos were taken from the VKontakte social network.  
